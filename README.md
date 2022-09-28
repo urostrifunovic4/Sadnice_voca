@@ -1,1 +1,1 @@
-# Sadnice_voca
+Aplikacija za evidenciju i prodaju sadnica voca-Diplomski rad. Aplikacija je kreirana u C# jeziku i .Net platformi. Kreirana je troslojna arhitektura i implementirane CRUD operacije. Omoguceno je odredjena zastita podataka o lozinkama kroz algoritam za enkripciju koji kreira hash vrednost. Kreirana je lokalna baza podataka i omogucena evidencija svih sadnica voca, kao i njihova prodaja u delu aplikacije koja je namenjena kupcu.
